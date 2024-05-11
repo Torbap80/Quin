@@ -1,0 +1,60 @@
+*{
+margin: 0;
+padding: 0;
+}
+header{
+height: 20px;
+background: black;
+color: white;
+text-align: center;
+}
+nav{
+height: 20px;
+background: brown;
+color: white;
+text-align: center;
+}
+section{
+display: flex;
+}
+.A{
+width: 30%;
+height: 100px;
+background: chocolate;
+color: black;
+text-align: center;
+}
+.B{
+width: 40%;
+height: 100px;
+background: blue;
+color: black;
+text-align: center;
+}
+.C{
+width: 30%;
+height: 100px;
+background: green;
+color: black;
+text-align: center;
+}
+.content{
+width: 80%;
+height: 95px;
+background: crimson;
+color: black;
+text-align: center;
+}
+.side{
+width: 20%;
+height: 95px;
+background: black;
+color: gold;
+text-align: center;
+}
+footer{
+height: 50px;
+background: fuchsia;
+color: black;
+text-align: center;
+}
